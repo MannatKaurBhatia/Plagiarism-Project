@@ -25,7 +25,7 @@ This project utilizes AI and ML techniques to detect plagiarism among text files
 - **Accuracy**: The project achieved an overall accuracy of 95%.
 - **Plagiarized Pairs**: The code prints pairs of text files that are detected as plagiarized based on the similarity threshold.
 
-**Conclusion***
+**Conclusion**
 This project demonstrates a comprehensive approach to plagiarism detection using text preprocessing, feature extraction with TF-IDF, and similarity calculation using cosine similarity. The high accuracy rate highlights the effectiveness of the implemented techniques.
 
 
